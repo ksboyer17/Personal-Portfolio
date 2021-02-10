@@ -10,6 +10,15 @@ body {
     background-color: #d9dcd6;
 }
 
+.background-quote {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ciphr.com%2Fwp-content%2Fuploads%2F2017%2F02%2FDo-something-great-neo-880x300px.jpg&imgrefurl=https%3A%2F%2Fwww.ciphr.com%2Fadvice%2F37-motivational-quotes-inspire-team%2F&tbnid=yHQHS65Se_AbnM&vet=12ahUKEwiawrzq-93uAhUVUM0KHY2IAyIQMygQegUIARCxAg..i&docid=x0dQwCocdCvIsM&w=880&h=300&q=inspirational%20team%20quotes&ved=2ahUKEwiawrzq-93uAhUVUM0KHY2IAyIQMygQegUIARCxAg");
+    background-size: cover;
+    background-position: center;
+}
+
 .links {
     padding: 20px;
     background-color:grey;
@@ -37,54 +46,7 @@ body {
     margin-left: 25px;
 }
 
-.alinks:hover {
-    color: yellow;
-}
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
-main {
-    background-color: grey;
-}
-
-p {
-    float: right;
-}
-
-.content {
-    display: inline-block;
-    margin: 20%;
-}
-
-.main-info {
-    padding: 10px;
-    height: 200px;
-    font-family: cursive;
-    background-color:grey;
-    color: #ffffff;
-}
-
-.main-info img {
-    max-height: 200px;
-    max-width: 200px;
-    padding: 10px;
-    background-color: grey;
-}
-
-.main-info h2 {
-    margin-bottom: 15px;
-    font-size: 30px;
-    padding: 10px;
-    background-color: grey;
-    width: 30%;
-}
 
 footer {
     text-align: center;
