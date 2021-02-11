@@ -30,6 +30,8 @@ https://github.com/ksboyer17/Personal-Portfolio -
 https://ksboyer17.github.io/Personal-Portfolio/ -
 [GitHub](https://ksboyer17.github.io/Personal-Portfolio/)
 
+**Deployed Screen Shot Page 1**
 ![Website HTML Page 1](https://github.com/ksboyer17/Personal-Portfolio/blob/main/online-portfolio/Assets/Screen%20Shot%202021-02-11%20at%2012.06.47%20PM.png)
 
+**Deployed Screen Shot Page 2**
 ![Website HTML Page 2](https://github.com/ksboyer17/Personal-Portfolio/blob/main/online-portfolio/Assets/Screen%20Shot%202021-02-11%20at%2012.07.02%20PM.png)
