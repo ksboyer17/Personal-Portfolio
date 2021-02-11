@@ -16,6 +16,7 @@ Functionality of the Website:
 4. Once you click one of the project links you will have the ability to navigate back to the previous page by clicking the "About Me" link or the "Social Media" link.
 5. On the Projects page users also have the ability to click any tile and they will be directed to Google as a temporary place holder. Once additonal work is developed consumers will be directed to my deployed work.
 6. Users will also notice hover elements throughout the website including when users hover over tiles and Nav bar links.
+7. Contact information and a clickable email link can be located in the footer of the page.
 
 **Link to Wireframe:**
 https://github.com/ksboyer17/Personal-Portfolio/blob/main/online-portfolio/Assets/Screen%20Shot%202021-02-11%20at%2011.21.18%20AM.png -
@@ -28,3 +29,5 @@ https://github.com/ksboyer17/Personal-Portfolio -
 **Link to Deployed Webpage:**
 https://ksboyer17.github.io/Personal-Portfolio/ -
 [GitHub](https://ksboyer17.github.io/Personal-Portfolio/)
+
+![github]()
