@@ -3,7 +3,7 @@ A portfolio displaying my personal work.
 
 This project was made in VS Code using CSS and HTML. 
 
-This project was designed to offer people a place to view my work as a developer. The site is not currently finished and still needs Javascript aspects added, as well as additional published work on the "My Projects" page. I used html elements and a clean structure to ensure that the code is easy for other developers to view and also to make the site more accessible.  
+This project was designed to offer people a place to view my work as a developer. The site is currently finished but will have additional projects added to it in the future. I used html elements and a clean structure to ensure that the code is easy for other developers to view and also to make the site more accessible.  
 
 How to access my code and structure:
 - Please visit my GitHub repository "Personal-Portfolio", link can be found below
